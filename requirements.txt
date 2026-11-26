@@ -1,0 +1,5 @@
+# What the chatbot needs to run (bot.py and web.py).
+flask
+gunicorn
+psycopg2-binary
+google-genai
